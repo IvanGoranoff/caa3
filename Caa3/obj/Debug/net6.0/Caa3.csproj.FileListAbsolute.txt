@@ -1,0 +1,15 @@
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\Caa3.csproj.AssemblyReference.cache
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\Caa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\Caa3.AssemblyInfoInputs.cache
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\Caa3.AssemblyInfo.cs
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\Caa3.csproj.CoreCompileInputs.cache
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\bin\Debug\net6.0\Caa3.exe
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\bin\Debug\net6.0\Caa3.deps.json
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\bin\Debug\net6.0\Caa3.runtimeconfig.json
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\bin\Debug\net6.0\Caa3.dll
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\bin\Debug\net6.0\Caa3.pdb
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\Caa3.dll
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\refint\Caa3.dll
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\Caa3.pdb
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\Caa3.genruntimeconfig.cache
+C:\Users\ivan.goranov\source\repos\Caa3\Caa3\obj\Debug\net6.0\ref\Caa3.dll
